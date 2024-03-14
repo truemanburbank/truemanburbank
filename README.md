@@ -5,7 +5,8 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truemanburbank&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=C#&logoColor=white"/>
+
+  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=150&section=footer&" />
 </div>
