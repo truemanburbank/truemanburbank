@@ -8,7 +8,7 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  ![docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white)
+  ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&" />
 </div>
