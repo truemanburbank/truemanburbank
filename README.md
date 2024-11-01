@@ -9,6 +9,10 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
+  ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+  
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&" />
 </div>
