@@ -1,11 +1,11 @@
 
-
+<div align="center">
 <figure class="thrid"> 
   <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>  
   <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>  
   <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>
-  <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>
 </figure>
+</div>
 
 <div align="center">
   
@@ -21,10 +21,10 @@
 </div>
 
 
-
+<div align="center">
 <figure class="thrid"> 
   <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>  
   <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>  
   <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>
-  <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>
 </figure>
+</div>
