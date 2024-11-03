@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=Trueman's%20SAVE%20DATA&fontSize=50&fontColor=ffffff" />
-  
   ![ZoaNk_](https://github.com/truemanburbank/truemanburbank/assets/71928366/2e91b6ef-c79d-4a51-a966-ec1c346c43ba)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truemanburbank&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,8 +10,5 @@
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-  
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&" />
 </div>
 
