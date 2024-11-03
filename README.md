@@ -1,5 +1,5 @@
 <div align="center">
-  ![ZoaNk_](https://github.com/truemanburbank/truemanburbank/assets/71928366/2e91b6ef-c79d-4a51-a966-ec1c346c43ba)
+  ![kafu-vocaloid](https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truemanburbank&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
