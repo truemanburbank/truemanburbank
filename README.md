@@ -1,5 +1,6 @@
-<div align="center">
   ![kafu-vocaloid](https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445)
+
+<div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truemanburbank&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
