@@ -11,12 +11,3 @@
   ![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 </div>
-
-
-<div align="center">
-<figure class="thrid"> 
-  <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>  
-  <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>  
-  <img src="https://github.com/user-attachments/assets/a2e75f74-e5cb-42bd-965a-4c203a661445"></a>
-</figure>
-</div>
